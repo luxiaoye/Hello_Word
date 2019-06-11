@@ -5,5 +5,5 @@
  * @return [type] [description]
  */
   public function test_method(){
-  	echo 'hello word';
+  	echo 'hello word,dudududu';
   }
